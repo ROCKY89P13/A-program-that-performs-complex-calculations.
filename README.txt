@@ -2,9 +2,7 @@
         PROJETO EM C - SISTEMA DE CÁLCULOS
 ==================================================================
 
-Autor: Henrique Kaio Ferreira da Silva 
-Disciplina: ALGORITMOS E PROGRAMAÇÃO ESTRUTURADA - GPE17M20231
-Data: 02 de Outubro de 2025
+Autor: Henrique Kaio 
 
 ------------------------------------------------------------------
 1. FUNCIONALIDADES IMPLEMENTADAS
